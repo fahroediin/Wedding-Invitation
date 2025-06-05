@@ -11,7 +11,7 @@ const config = {
     date: "2025-06-06",
     maps_url: "https://maps.app.goo.gl/8pDcCqa2fG8MgZjZA",
     maps_embed:
-      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2352.8602351040663!2d108.8042666398272!3d-7.351260187304336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f7f0016b1ecd9%3A0xae0491d1cfc26e04!2sAlfamart%20Karangreja!5e0!3m2!1sen!2sid!4v1749090390582!5m2!1sen!2sidsid!2sid",
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.0192396267794!2d108.79996926174375!3d-7.351735476150387!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f7f0016b1ecd9%3A0xae0491d1cfc26e04!2sAlfamart%20Karangreja!5e0!3m2!1sen!2sid!4v1749094082857!5m2!1sen!2sid",
     time: "16:16 - 17:30 WIB",
     location: "Alfamart Karangreja",
     address: "Tobong, Kec. Cimanggu Kabupaten Cilacap",
