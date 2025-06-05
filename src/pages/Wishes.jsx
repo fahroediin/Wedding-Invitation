@@ -32,23 +32,23 @@ export default function Wishes() {
     const [wishes, setWishes] = useState([
         {
             id: 1,
-            name: "John Doe",
-            message: "Wishing you both a lifetime of love, laughter, and happiness! 🎉",
-            timestamp: "2024-12-24T23:20:00Z",
+            name: "Awal Ariansyah",
+            message: "Astaghfirullah, eling henk dlii",
+            timestamp: "2025-06-05T23:20:00Z",
             attending: "attending"
         },
         {
             id: 2,
-            name: "Natalie",
-            message: "Wishing you both a lifetime of love, laughter, and happiness! 🎉",
-            timestamp: "2024-12-24T23:20:00Z",
+            name: "Amarulloh M K",
+            message: "Wis jaman akhir, ketone kudu diakhiri umure wong loro gye",
+            timestamp: "2025-06-05T23:20:00Z",
             attending: "attending"
         },
         {
             id: 3,
-            name: "Abdur Rofi",
-            message: "Congratulations on your special day! May Allah bless your union! 🤲",
-            timestamp: "2024-12-25T23:08:09Z",
+            name: "Willy S",
+            message: "Wong kentir arep kawin",
+            timestamp: "2025-06-05T23:08:09Z",
             attending: "maybe"
         }
     ]);
