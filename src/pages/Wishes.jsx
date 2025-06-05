@@ -34,21 +34,21 @@ export default function Wishes() {
             id: 1,
             name: "Awal Ariansyah",
             message: "Astaghfirullah, eling henk dlii",
-            timestamp: "2025-06-05T23:20:00Z",
+            timestamp: "2025-05-05T23:20:00Z",
             attending: "attending"
         },
         {
             id: 2,
             name: "Amarulloh M K",
             message: "Wis jaman akhir, ketone kudu diakhiri umure wong loro gye",
-            timestamp: "2025-06-05T23:20:00Z",
+            timestamp: "2025-05-05T23:20:00Z",
             attending: "attending"
         },
         {
             id: 3,
             name: "Willy S",
             message: "Wong kentir arep kawin",
-            timestamp: "2025-06-05T23:08:09Z",
+            timestamp: "2025-05-05T23:08:09Z",
             attending: "maybe"
         }
     ]);
